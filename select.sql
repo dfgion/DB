@@ -15,4 +15,4 @@ select * from singers
 where (length(nickname)-length(replace(nickname, ' ', ''))+1)= 1;
 
 select name from songs 
-where name like '%мой%' or name like '%my%';
+where name like '%Мой%' or name like '%My%';

@@ -41,25 +41,28 @@ insert into albums(id, name, release_date)
 values(1, 'Yamakasi', '17-07-2020');
 
 insert into albums(id, name, release_date)
-values(2, 'world', '02-12-2022');
+values(2, 'Kids see ghosts', '08-06-2018');
 
 insert into albums(id, name, release_date)
-values(3, 'SYSTEM 3RASE', '24-12-2021');
+values(3, 'world', '02-12-2022');
 
 insert into albums(id, name, release_date)
-values(4, 'Optic Illusion', '28-01-2022');
+values(4, 'SYSTEM 3RASE', '24-12-2021');
 
 insert into albums(id, name, release_date)
-values(5, 'Blurryface', '17-05-2015');
+values(5, 'Optic Illusion', '28-01-2022');
 
 insert into albums(id, name, release_date)
-values(6, 'The Highlights', '05-02-2021');
+values(6, 'Blurryface', '17-05-2015');
 
 insert into albums(id, name, release_date)
-values(7, 'Tsukuyomi Dream', '14-08-2019');
+values(7, 'The Highlights', '05-02-2021');
 
 insert into albums(id, name, release_date)
-values(8, 'Time', '08-07-2019');
+values(8, 'Tsukuyomi Dream', '14-08-2019');
+
+insert into albums(id, name, release_date)
+values(9, 'Time', '08-07-2019');
 
 insert into songs(id, name, time, id_of_album)
 values(1, 'Blinding Lights', '3:20', 6);
